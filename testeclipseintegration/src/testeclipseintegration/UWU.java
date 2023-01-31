@@ -15,7 +15,7 @@ public class UWU {
 		ClassA classA = new ClassA("ABCDEF" ) ;
 		System.out.println(classA.getABC());
 		System.out.println("We test fetching");
-		
+		System.out.println("Sending message");
 	}
 	
 }
