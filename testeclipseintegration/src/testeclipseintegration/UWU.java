@@ -16,6 +16,7 @@ public class UWU {
 		System.out.println(classA.getABC());
 		System.out.println("We test fetching");
 		System.out.println("Sending message");
+		System.out.println("New message");
 	}
 	
 }
