@@ -17,6 +17,8 @@ public class UWU {
 		System.out.println("We test fetching");
 		System.out.println("Sending message");
 		System.out.println("New message");
+		System.out.println("We try something");
+		
 	}
 	
 }
